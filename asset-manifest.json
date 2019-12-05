@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React-To-Do-App/static/css/main.e1abfd9e.chunk.css",
-    "main.js": "/React-To-Do-App/static/js/main.ba1a3ca5.chunk.js",
-    "main.js.map": "/React-To-Do-App/static/js/main.ba1a3ca5.chunk.js.map",
-    "runtime-main.js": "/React-To-Do-App/static/js/runtime-main.fb0d8dfc.js",
-    "runtime-main.js.map": "/React-To-Do-App/static/js/runtime-main.fb0d8dfc.js.map",
-    "static/js/2.11f775b8.chunk.js": "/React-To-Do-App/static/js/2.11f775b8.chunk.js",
-    "static/js/2.11f775b8.chunk.js.map": "/React-To-Do-App/static/js/2.11f775b8.chunk.js.map",
-    "index.html": "/React-To-Do-App/index.html",
-    "precache-manifest.65ffbbadeffc49ae9bef7d072f26cc72.js": "/React-To-Do-App/precache-manifest.65ffbbadeffc49ae9bef7d072f26cc72.js",
-    "service-worker.js": "/React-To-Do-App/service-worker.js",
-    "static/css/main.e1abfd9e.chunk.css.map": "/React-To-Do-App/static/css/main.e1abfd9e.chunk.css.map"
+    "main.css": "/static/css/main.e1abfd9e.chunk.css",
+    "main.js": "/static/js/main.ba1a3ca5.chunk.js",
+    "main.js.map": "/static/js/main.ba1a3ca5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a78c673e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a78c673e.js.map",
+    "static/js/2.11f775b8.chunk.js": "/static/js/2.11f775b8.chunk.js",
+    "static/js/2.11f775b8.chunk.js.map": "/static/js/2.11f775b8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.82e2c08ba36beafb2e69ccc68e440b92.js": "/precache-manifest.82e2c08ba36beafb2e69ccc68e440b92.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e1abfd9e.chunk.css.map": "/static/css/main.e1abfd9e.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb0d8dfc.js",
+    "static/js/runtime-main.a78c673e.js",
     "static/js/2.11f775b8.chunk.js",
     "static/css/main.e1abfd9e.chunk.css",
     "static/js/main.ba1a3ca5.chunk.js"
